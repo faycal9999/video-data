@@ -1,10 +1,12 @@
 [
- {
-    "url": "https://www.youtube.com/watch?v=wxyz5678",
-    "time": 30
-  }
+  {
+    "url": "https://www.youtube.com/watch?v=abcd1234",
+    "time": 20,
+    "channelId": "UC111111111111111"
+  },
   {
     "url": "https://www.youtube.com/watch?v=wxyz5678",
-    "time": 30
+    "time": 30,
+    "channelId": "UC222222222222222"
   }
 ]
